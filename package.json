@@ -1,0 +1,26 @@
+{
+  "author": "Francisco Tavares de Lima Neto",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "callbag-from-iter": "~1.0.0",
+    "callbag-interval": "~1.0.0",
+    "callbag-pipe": "~1.1.1",
+    "callbag-subscribe": "~1.2.0",
+    "tape": "~4.9.0"
+  },
+  "keywords": [
+    "callbag"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "callbag-find",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscotln/callbag-find.git"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "version": "1.0.0"
+}
